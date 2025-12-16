@@ -1,0 +1,1 @@
+Es un orgaizador de papers puedes asignar un vinculo para tus archivos en locales o hipervinculos, puedes ramificar a otros papers como las referencias de este, y puedes agregar notas a cada modulo y ramificaciones las puedes modificar
